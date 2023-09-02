@@ -1,2 +1,2 @@
-# container-lab
-Get familiar with Docker &amp; K8
+# Get familiar with Docker and Kubernetes
+Practice fundamental Docker and Kubernetes
